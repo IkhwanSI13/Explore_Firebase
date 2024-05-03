@@ -81,6 +81,7 @@ dependencies {
     implementation("com.google.firebase:firebase-analytics")
     implementation("com.google.firebase:firebase-crashlytics")
     implementation("com.google.firebase:firebase-auth")
+    implementation("com.google.firebase:firebase-messaging")
 
     // Google Sign In
     // Also add the dependency for the Google Play services library and specify its version
